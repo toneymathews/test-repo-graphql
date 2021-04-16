@@ -1,0 +1,13 @@
+type Schema {
+  query: Query
+}
+
+type Query {
+  foo: Foo
+{
+
+type Foo {
+  aField: String
+}
+
+  
