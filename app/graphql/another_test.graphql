@@ -1,0 +1,12 @@
+type Schema {
+  query: Query
+  mutation: Mutation
+ }
+ 
+type Query {
+  foo: Bar
+ }
+ 
+ type Bar {
+  aField: String
+  }
