@@ -12,6 +12,7 @@ type Foo {
 }
 
 type Bar {
+  newField: String
   anotherField: String
 }
 
