@@ -4,10 +4,15 @@ type Schema {
 
 type Query {
   foo: Foo
+  bar: Bar
 }
 
 type Foo {
   aField: String
+}
+
+type Bar {
+  anotherField: String
 }
 
   
