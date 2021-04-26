@@ -4,6 +4,7 @@ type Schema {
 
 type Query {
   foo: Foo
+  aField: String
 }
 
 type Foo {
