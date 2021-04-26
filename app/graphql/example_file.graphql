@@ -5,7 +5,7 @@ type Schema {
 type Query {
   foo: Foo
   bField: String
-  cField: Integer
+  cField: String
 }
 
 type Foo {
