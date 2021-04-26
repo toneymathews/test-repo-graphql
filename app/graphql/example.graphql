@@ -5,7 +5,6 @@ type Schema {
 type Query {
   foo: Foo
   bar: Bar
-  count: Integer
 }
 
 type Foo {
