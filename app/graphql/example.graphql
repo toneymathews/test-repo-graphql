@@ -15,6 +15,7 @@ type Bar {
   newField: String
   anotherField: String
   anewField: String
+  bField: String
 }
 
   
