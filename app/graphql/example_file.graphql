@@ -10,5 +10,6 @@ type Query {
 
 type Foo {
  zField: Integer
+ dField: String
   aField: String
 }
