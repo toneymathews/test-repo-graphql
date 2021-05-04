@@ -9,5 +9,5 @@ type Query {
 type Foo {
   aField: String
   bField: String
-  cField: String!
+  cField: String
 }
