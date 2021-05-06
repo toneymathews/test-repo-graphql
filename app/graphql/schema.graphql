@@ -8,7 +8,8 @@ type Query {
 
 type Foo {
   aField: String
-  bField: String!
+  bField: String
+  zField: String!
   dField: String!
   eField: String!
   cField: String
