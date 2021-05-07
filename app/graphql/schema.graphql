@@ -11,6 +11,7 @@ type Foo {
   bField: String!
   dField: String
   zField: String!
+  yField: Boolean
   eField: String!
   cField: String
 }
