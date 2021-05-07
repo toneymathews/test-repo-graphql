@@ -13,6 +13,7 @@ type Foo {
   zField: String
   newField: Boolean
   yField: Boolean
-  eField: String!
+  eField: String
+  anotherField: Boolean
   cField: String
 }
