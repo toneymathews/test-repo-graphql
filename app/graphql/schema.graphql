@@ -10,7 +10,8 @@ type Foo {
   aField: String
   bField: String!
   dField: String
-  zField: String!
+  zField: String
+  newField: Boolean
   yField: Boolean
   eField: String!
   cField: String
